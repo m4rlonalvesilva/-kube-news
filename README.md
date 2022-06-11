@@ -1,2 +1,1 @@
-# -kube-news
-Iniciativa DevOps - Fabrício Veronez
+# kube-news
